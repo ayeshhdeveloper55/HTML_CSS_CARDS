@@ -1,0 +1,61 @@
+.container{
+    background-color: white;
+    width: 350px;
+    height: 450px;
+    border-radius: 20px;
+    border: 2px solid purple;
+    margin-top: 40px;
+    margin-left: 200px;
+    display: inline-block;
+
+}
+.container:hover{
+    background-color: pink;
+
+}
+img{
+    width: 120px;
+    height:150px ;
+    margin-top: 20px;
+    margin-left: 110px;
+    border-radius: 60px;
+    border: 2px solid black;
+}
+h1,h2{
+    text-align: center;
+    color: blueviolet;
+
+}
+body{
+    background-color: blueviolet
+}
+button{
+    width:120px ;
+    height:40px ;
+    text-align:center ;
+    font-weight: bold;
+    border:2px solid plum ;
+    border-radius:20px ;
+    box-shadow: 4px 4px  blueviolet ;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+h1:hover{
+    color: black ;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+h2:hover{
+    color: black ;
+}
+.card{
+    color: black;
+    border: 20px solid white;
+}
+.info{
+    color: black;
+    font-size: 40px;
+    text-decoration: underline white;
+}
